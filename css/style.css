@@ -6,6 +6,11 @@
 
 body{
     text-align: center;
+    background-image: url(../img/ginosaborgodelfuturo.jpg);
+    background-size: cover;
+    color: white;
+
+
 }
 #parola{
     width: 300px;
@@ -14,3 +19,13 @@ body{
     margin-top: 20px;
     padding: 10px 20px;
 }
+
+p{
+    margin: 15px;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+h3{color: red;}

@@ -11,7 +11,7 @@
 <body>
 
   <h2>Badwords</h2>
-    <form action="censura.php" method="post">
+    <form action="censura.php" method="GET">
         <div>
             <label for="paragrafo">Paragrafo:</label><br>
             <textarea name="paragrafo" id="paragrafo" rows="4" cols="50" maxlength="400" placeholder="Inserisci il testo"></textarea>
